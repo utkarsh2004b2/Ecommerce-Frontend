@@ -109,7 +109,6 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
           <div className="container-fluid">
             <a className="navbar-brand" href="#">🛒 ShopNest</a>
               ShopNest
-            </a>
             <button
               className="navbar-toggler"
               type="button"
